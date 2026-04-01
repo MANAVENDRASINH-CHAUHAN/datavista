@@ -1,16 +1,63 @@
-# React + Vite
+# 📊 DataVista – AI Data Visualization 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+DataVista is an AI-powered data visualization and analytics dashboard that allows users to upload datasets, clean data, analyze it, and generate insights visually.  
 
-Currently, two official plugins are available:
+It combines data science + full stack development to provide an interactive and intelligent data analysis experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 📂 Data Handling
+- Upload datasets (CSV, Excel)
+- Preview data instantly
+- Handle large datasets
 
-## Expanding the ESLint configuration
+### 🧹 Data Cleaning (AI Powered)
+- Remove null values
+- Handle missing data
+- Detect duplicates
+- Auto-clean suggestions using AI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📊 Data Visualization
+- Bar charts
+- Line charts
+- Pie charts
+- Dynamic dashboards
+
+### 🤖 AI Insights
+- Automatic data analysis
+- Trend detection
+- Summary generation
+- Smart recommendations
+
+### 📈 Dashboard
+- Interactive UI
+- Real-time updates
+- Clean and modern design (Glassmorphism UI)
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend:
+- React (Vite)
+- HTML, CSS, JavaScript
+
+### Backend:
+- Node.js
+- Express.js
+
+### Database:
+- MongoDB
+
+### Data Science:
+- Python (optional integration)
+- Pandas (for data processing)
+
+### Tools:
+- Git & GitHub
+- VS Code
+
+---
